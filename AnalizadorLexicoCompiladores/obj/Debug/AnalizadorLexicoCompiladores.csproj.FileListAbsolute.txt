@@ -1,0 +1,11 @@
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\bin\Debug\AnalizadorLexicoCompiladores.exe.config
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\bin\Debug\AnalizadorLexicoCompiladores.exe
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\bin\Debug\AnalizadorLexicoCompiladores.pdb
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.csproj.AssemblyReference.cache
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.csproj.SuggestedBindingRedirects.cache
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.Form1.resources
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.Properties.Resources.resources
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.csproj.GenerateResource.cache
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.csproj.CoreCompileInputs.cache
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.exe
+C:\Users\keven\source\repos\AnalizadorLexicoCompiladores\obj\Debug\AnalizadorLexicoCompiladores.pdb
